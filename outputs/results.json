@@ -1,0 +1,275 @@
+[
+  {
+    "lambda": 1e-05,
+    "test_accuracy": 0.809,
+    "sparsity_pct": 0.0,
+    "layer_sparsity": {
+      "classifier.0": 0.0,
+      "classifier.2": 0.0
+    },
+    "epoch_log": [
+      {
+        "epoch": 1,
+        "train_loss": 6.78206,
+        "train_acc": 0.5009,
+        "test_acc": 0.6075,
+        "sparsity": 0.0,
+        "elapsed": 31.05
+      },
+      {
+        "epoch": 2,
+        "train_loss": 6.50592,
+        "train_acc": 0.6425,
+        "test_acc": 0.6537,
+        "sparsity": 0.0,
+        "elapsed": 3.84
+      },
+      {
+        "epoch": 3,
+        "train_loss": 6.41092,
+        "train_acc": 0.6903,
+        "test_acc": 0.7059,
+        "sparsity": 0.0,
+        "elapsed": 3.72
+      },
+      {
+        "epoch": 4,
+        "train_loss": 6.35407,
+        "train_acc": 0.7164,
+        "test_acc": 0.7569,
+        "sparsity": 0.0,
+        "elapsed": 3.65
+      },
+      {
+        "epoch": 5,
+        "train_loss": 6.30049,
+        "train_acc": 0.7462,
+        "test_acc": 0.7392,
+        "sparsity": 0.0,
+        "elapsed": 3.64
+      },
+      {
+        "epoch": 6,
+        "train_loss": 6.26577,
+        "train_acc": 0.762,
+        "test_acc": 0.7712,
+        "sparsity": 0.0,
+        "elapsed": 3.53
+      },
+      {
+        "epoch": 7,
+        "train_loss": 6.23258,
+        "train_acc": 0.7786,
+        "test_acc": 0.7756,
+        "sparsity": 0.0,
+        "elapsed": 3.58
+      },
+      {
+        "epoch": 8,
+        "train_loss": 6.2043,
+        "train_acc": 0.793,
+        "test_acc": 0.7984,
+        "sparsity": 0.0,
+        "elapsed": 3.57
+      },
+      {
+        "epoch": 9,
+        "train_loss": 6.18408,
+        "train_acc": 0.8035,
+        "test_acc": 0.8051,
+        "sparsity": 0.0,
+        "elapsed": 3.52
+      },
+      {
+        "epoch": 10,
+        "train_loss": 6.1725,
+        "train_acc": 0.8091,
+        "test_acc": 0.809,
+        "sparsity": 0.0,
+        "elapsed": 4.41
+      }
+    ]
+  },
+  {
+    "lambda": 0.0001,
+    "test_accuracy": 0.8085,
+    "sparsity_pct": 0.0,
+    "layer_sparsity": {
+      "classifier.0": 0.0,
+      "classifier.2": 0.0
+    },
+    "epoch_log": [
+      {
+        "epoch": 1,
+        "train_loss": 50.52476,
+        "train_acc": 0.5048,
+        "test_acc": 0.6206,
+        "sparsity": 0.0,
+        "elapsed": 4.17
+      },
+      {
+        "epoch": 2,
+        "train_loss": 47.68775,
+        "train_acc": 0.6383,
+        "test_acc": 0.6698,
+        "sparsity": 0.0,
+        "elapsed": 4.07
+      },
+      {
+        "epoch": 3,
+        "train_loss": 47.49719,
+        "train_acc": 0.6834,
+        "test_acc": 0.7016,
+        "sparsity": 0.0,
+        "elapsed": 4.08
+      },
+      {
+        "epoch": 4,
+        "train_loss": 47.44659,
+        "train_acc": 0.7153,
+        "test_acc": 0.745,
+        "sparsity": 0.0,
+        "elapsed": 4.13
+      },
+      {
+        "epoch": 5,
+        "train_loss": 47.37471,
+        "train_acc": 0.7416,
+        "test_acc": 0.7661,
+        "sparsity": 0.0,
+        "elapsed": 4.59
+      },
+      {
+        "epoch": 6,
+        "train_loss": 47.33755,
+        "train_acc": 0.7609,
+        "test_acc": 0.7506,
+        "sparsity": 0.0,
+        "elapsed": 3.48
+      },
+      {
+        "epoch": 7,
+        "train_loss": 47.29464,
+        "train_acc": 0.7774,
+        "test_acc": 0.7883,
+        "sparsity": 0.0,
+        "elapsed": 3.37
+      },
+      {
+        "epoch": 8,
+        "train_loss": 47.26069,
+        "train_acc": 0.792,
+        "test_acc": 0.7958,
+        "sparsity": 0.0,
+        "elapsed": 3.42
+      },
+      {
+        "epoch": 9,
+        "train_loss": 47.24108,
+        "train_acc": 0.8016,
+        "test_acc": 0.8046,
+        "sparsity": 0.0,
+        "elapsed": 3.35
+      },
+      {
+        "epoch": 10,
+        "train_loss": 47.23366,
+        "train_acc": 0.8058,
+        "test_acc": 0.8085,
+        "sparsity": 0.0,
+        "elapsed": 3.31
+      }
+    ]
+  },
+  {
+    "lambda": 0.001,
+    "test_accuracy": 0.7891,
+    "sparsity_pct": 0.0,
+    "layer_sparsity": {
+      "classifier.0": 0.0,
+      "classifier.2": 0.0
+    },
+    "epoch_log": [
+      {
+        "epoch": 1,
+        "train_loss": 478.75602,
+        "train_acc": 0.5029,
+        "test_acc": 0.5127,
+        "sparsity": 0.0,
+        "elapsed": 3.31
+      },
+      {
+        "epoch": 2,
+        "train_loss": 390.00661,
+        "train_acc": 0.6379,
+        "test_acc": 0.6558,
+        "sparsity": 0.0,
+        "elapsed": 3.33
+      },
+      {
+        "epoch": 3,
+        "train_loss": 322.88229,
+        "train_acc": 0.6792,
+        "test_acc": 0.7246,
+        "sparsity": 0.0,
+        "elapsed": 3.35
+      },
+      {
+        "epoch": 4,
+        "train_loss": 277.06189,
+        "train_acc": 0.7059,
+        "test_acc": 0.7369,
+        "sparsity": 0.0,
+        "elapsed": 3.6
+      },
+      {
+        "epoch": 5,
+        "train_loss": 247.73429,
+        "train_acc": 0.7276,
+        "test_acc": 0.7428,
+        "sparsity": 0.0,
+        "elapsed": 4.05
+      },
+      {
+        "epoch": 6,
+        "train_loss": 229.78298,
+        "train_acc": 0.7423,
+        "test_acc": 0.7562,
+        "sparsity": 0.0,
+        "elapsed": 3.78
+      },
+      {
+        "epoch": 7,
+        "train_loss": 219.12324,
+        "train_acc": 0.7569,
+        "test_acc": 0.7552,
+        "sparsity": 0.0,
+        "elapsed": 3.88
+      },
+      {
+        "epoch": 8,
+        "train_loss": 213.0416,
+        "train_acc": 0.7671,
+        "test_acc": 0.7809,
+        "sparsity": 0.0,
+        "elapsed": 3.77
+      },
+      {
+        "epoch": 9,
+        "train_loss": 209.82376,
+        "train_acc": 0.7762,
+        "test_acc": 0.786,
+        "sparsity": 0.0,
+        "elapsed": 4.04
+      },
+      {
+        "epoch": 10,
+        "train_loss": 208.38454,
+        "train_acc": 0.7815,
+        "test_acc": 0.7891,
+        "sparsity": 0.0,
+        "elapsed": 3.85
+      }
+    ]
+  }
+]
